@@ -1,0 +1,27 @@
+A	/ . – /		Akát
+B	/ – . . . /	Blýskavice
+C	/ – . – . /	Cílovníci
+D	/ – . . /	Dálava
+E	/ . /		Erb
+F	/ . . – . /	Filipíny
+G	/ – – . /	Grónská zem
+H	/ . . . . /	Hrachovina
+CH	/ – – – – /	Chvátá k nám sám
+I	/ . . /		Ibis
+J	/ . – – – /	Jasmín bílý
+K	/ – . – /	Krákora
+L	/ . – . . /	Lupíneček
+M	/ – – /		Mává
+N	/ – . /		Nástup
+O	/ – – – /	Ó náš pán
+P	/ . – – . /	Papírníci
+Q	/ – – . – /	Kvílí orkán
+R	/ . – . /	Rarášek
+S	/ . . . /	Sekera
+T	/ – /		Trám
+U	/ . . – /	Uličník
+V	/ . . . – /	Vyvolený
+W	/ . – – /	Vagón klád
+X	/ – . . – /	Xénokratés
+Y	/ – . – – /	Ý se krátí
+Z	/ – – . . /	Známá žena
